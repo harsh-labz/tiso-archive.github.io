@@ -1,0 +1,7 @@
+theme: minimal-mistakes-jekyll
+
+title: "theitserver.org"
+masthead_title: "theitserver.org"
+
+include:
+  - assets/css
